@@ -1,7 +1,7 @@
 # Spinning-Donut-C-
 
 
-### How to compile
+## How to compile:
 
 - # Open Vscode ( what I am using in this scenario)
 
